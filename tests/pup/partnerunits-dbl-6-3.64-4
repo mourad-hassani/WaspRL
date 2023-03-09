@@ -1,0 +1,257 @@
+zone2sensor(1,1);+ zone2sensor(1,6);+ zone2sensor(2,1);+ zone2sensor(2,2);+ zone2sensor(2,7);+ zone2sensor(3,2);+ zone2sensor(3,3);+ zone2sensor(3,8);+ zone2sensor(4,3);+ zone2sensor(4,4);+ zone2sensor(4,9);+ zone2sensor(5,4);+ zone2sensor(5,5);+ zone2sensor(5,10);+ zone2sensor(6,5);+ zone2sensor(6,11);+ zone2sensor(7,6);+ zone2sensor(7,12);+ zone2sensor(8,7);+ zone2sensor(8,12);+ zone2sensor(8,13);+ zone2sensor(9,8);+ zone2sensor(9,13);+ zone2sensor(9,14);+ zone2sensor(10,9);+ zone2sensor(10,14);+ zone2sensor(10,15);+ zone2sensor(11,10);+ zone2sensor(11,15);+ zone2sensor(11,16);+ zone2sensor(12,11);+ zone2sensor(12,16);+
+zone2sensor(3,2);- zone2sensor(3,3);- zone2sensor(3,8);-
+zone2sensor(3,2);+ zone2sensor(3,3);+ zone2sensor(3,8);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(2,1);- zone2sensor(2,2);- zone2sensor(2,7);-
+zone2sensor(2,1);+ zone2sensor(2,2);+ zone2sensor(2,7);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(3,3);- zone2sensor(4,3);-
+zone2sensor(3,3);+ zone2sensor(4,3);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(4,4);- zone2sensor(5,4);-
+zone2sensor(4,4);+ zone2sensor(5,4);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(4,4);- zone2sensor(5,4);-
+zone2sensor(4,4);+ zone2sensor(5,4);+
+zone2sensor(2,1);- zone2sensor(2,2);- zone2sensor(2,7);-
+zone2sensor(2,1);+ zone2sensor(2,2);+ zone2sensor(2,7);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(5,5);- zone2sensor(6,5);-
+zone2sensor(5,5);+ zone2sensor(6,5);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(2,2);- zone2sensor(3,2);-
+zone2sensor(2,2);+ zone2sensor(3,2);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(2,1);- zone2sensor(2,2);- zone2sensor(2,7);-
+zone2sensor(2,1);+ zone2sensor(2,2);+ zone2sensor(2,7);+
+zone2sensor(2,2);- zone2sensor(3,2);-
+zone2sensor(2,2);+ zone2sensor(3,2);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(2,2);- zone2sensor(3,2);-
+zone2sensor(2,2);+ zone2sensor(3,2);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(2,2);- zone2sensor(3,2);-
+zone2sensor(2,2);+ zone2sensor(3,2);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(2,1);- zone2sensor(2,2);- zone2sensor(2,7);-
+zone2sensor(2,1);+ zone2sensor(2,2);+ zone2sensor(2,7);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(3,2);- zone2sensor(3,3);- zone2sensor(3,8);-
+zone2sensor(3,2);+ zone2sensor(3,3);+ zone2sensor(3,8);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(4,3);- zone2sensor(4,4);- zone2sensor(4,9);-
+zone2sensor(4,3);+ zone2sensor(4,4);+ zone2sensor(4,9);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(2,1);- zone2sensor(2,2);- zone2sensor(2,7);-
+zone2sensor(2,1);+ zone2sensor(2,2);+ zone2sensor(2,7);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(2,1);- zone2sensor(2,2);- zone2sensor(2,7);-
+zone2sensor(2,1);+ zone2sensor(2,2);+ zone2sensor(2,7);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(2,2);- zone2sensor(3,2);-
+zone2sensor(2,2);+ zone2sensor(3,2);+
+zone2sensor(2,1);- zone2sensor(2,2);- zone2sensor(2,7);-
+zone2sensor(2,1);+ zone2sensor(2,2);+ zone2sensor(2,7);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(2,1);- zone2sensor(2,2);- zone2sensor(2,7);-
+zone2sensor(2,1);+ zone2sensor(2,2);+ zone2sensor(2,7);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(3,3);- zone2sensor(4,3);-
+zone2sensor(3,3);+ zone2sensor(4,3);+
+zone2sensor(4,3);- zone2sensor(4,4);- zone2sensor(4,9);-
+zone2sensor(4,3);+ zone2sensor(4,4);+ zone2sensor(4,9);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
+zone2sensor(1,1);- zone2sensor(1,6);-
+zone2sensor(1,1);+ zone2sensor(1,6);+
+zone2sensor(1,1);- zone2sensor(2,1);-
+zone2sensor(1,1);+ zone2sensor(2,1);+
